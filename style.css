@@ -436,23 +436,23 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-  width: 70%;
-}
-
-.skills-content .right .css::before {
   width: 80%;
 }
 
-.skills-content .right .js::before {
+.skills-content .right .css::before {
   width: 65%;
 }
 
+.skills-content .right .js::before {
+  width: 75%;
+}
+
 .skills-content .right .php::before {
-  width: 60%;
+  width: 30%;
 }
 
 .skills-content .right .mysql::before {
-  width: 75%;
+  width: 100%;
 }
 
 /* teams section styling */
